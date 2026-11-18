@@ -23,7 +23,7 @@ Workshop website: <https://gamusu.github.io/pols081-ssql-workshop/>
 | File | What it is |
 |:---|:---|
 | `lab-handout.qmd` | The lab handout: Example 1 (worked), Example 2 (you fill in the code), Workshop Questions |
-| `data/` | The four datasets used in the handout (codebooks are in the handout) |
+| `data/` | The datasets used in the handout and the workshop's visualization guide |
 | `bib/lab.bib` | References for the handout |
 | `setup.R` | Installs the R packages the handout needs |
 
